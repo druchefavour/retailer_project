@@ -63,7 +63,7 @@ The last data set is the 421571 x 5 Sales data set. This data set contains histo
 * Classification
 * Conclusion/ Recommendation
 
-### 1.4 Study Highlights
+### 1.4 Study Highlight
 * The performance of the promos is dependent on the size of the stores - The bigger the store, the more successful the promo (Markdown). 
 * Success of the sales are more pronounced during routine holidays and weekends more than ordinary week days.
 * While promo sales tends to behave independently from each other, sales during MarkDown 1 and MarkDown 4 have strong positive correlation
